@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "trilo-chat": {
+      "hosting": {
+        "Trilo-Chat": [
+          "trilo-chat"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "trilo-chat"
+  }
+}

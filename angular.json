@@ -116,6 +116,10 @@
               "devServerTarget": "Trilo-Chat:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
     }
